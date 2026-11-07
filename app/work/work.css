@@ -1,0 +1,50 @@
+/* Case study hub and detail pages */
+.case-back{display:inline-flex;align-items:center;gap:9px;font-size:13px;color:var(--muted)}
+.case-back:hover{color:var(--wine)}
+.case-page{max-width:1440px;margin:auto;padding:65px 6% 80px}
+.case-heading{max-width:850px;margin-bottom:48px}
+.case-heading>.overline{color:var(--muted);margin-bottom:23px}
+.case-heading h1{font-size:clamp(44px,5.5vw,78px);line-height:1.09;letter-spacing:-2px}
+.case-heading>p:last-child{font-size:17px;line-height:1.85;color:var(--muted);max-width:660px;margin-top:25px}
+.case-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px}
+.case-card{display:flex;flex-direction:column;align-items:flex-start;padding:29px;border:1px solid var(--line);border-radius:8px;background:#faf9f4;transition:transform .2s,border-color .2s}
+.case-card:hover{transform:translateY(-4px);border-color:var(--wine)}
+.case-card>.overline{color:var(--muted)}
+.case-card-metric{font-size:60px;letter-spacing:-2px;color:var(--wine);margin:28px 0}
+.case-card-metric>span{display:block;font-size:12px;letter-spacing:0;color:var(--muted)}
+.case-card h2{font-size:29px;line-height:1.15;letter-spacing:-.6px}
+.case-card>p{font-size:14px;color:var(--muted);line-height:1.85;margin:17px 0 25px}
+.case-card-link{display:flex;align-items:center;justify-content:space-between;gap:20px;font-size:13px;color:var(--wine);border-top:1px solid var(--line);padding-top:18px;margin-top:auto;width:100%}
+.case-layout{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);align-items:start;gap:65px}
+.case-story>section{border-top:1px solid var(--line);padding:29px 0 35px}
+.case-story .overline{color:var(--muted);margin-bottom:16px}
+.case-story h2{font-size:34px;letter-spacing:-.6px}
+.case-story p:not(.overline){color:var(--muted);font-size:15px;line-height:1.9;margin-top:17px}
+.case-steps{padding-left:23px;margin:24px 0 0}
+.case-steps>li{padding-left:10px;margin-top:25px}
+.case-steps>li::marker{color:var(--wine);font-size:13px}
+.case-steps h3{font-size:16px;font-weight:550}
+.case-steps p{margin-top:6px!important}
+.case-result{padding:32px;background:var(--sage);border:1px solid #d6dccb;border-radius:8px}
+.case-result>.overline{color:#58624e}
+.case-result>strong{display:block;font-weight:450;font-size:88px;letter-spacing:-4px;color:var(--wine);line-height:1.3;margin-top:20px}
+.case-result h2{font-size:29px;letter-spacing:-.6px}
+.case-result>p:not(.overline){font-size:14px;line-height:1.85;color:#59634f;margin-top:20px}
+.case-comparison{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:25px;padding-block:20px;border-block:1px solid #cbd1bf}
+.case-comparison span{display:block;font-size:12px;color:var(--muted)}
+.case-comparison b{font-size:17px;font-weight:500}
+.case-tools{display:flex;flex-wrap:wrap;gap:8px;margin-top:25px}
+.case-tools>span{font-size:11px;border:1px solid #cbd1bf;border-radius:20px;padding:5px 10px}
+.case-result>.case-source{font-size:11px!important;border-top:1px solid #cbd1bf;padding-top:20px;margin-top:25px!important}
+.case-cta{display:flex;align-items:center;justify-content:space-between;gap:25px;margin-top:55px;padding:35px;background:#eee9e0;border:1px solid #dfd9cd;border-radius:8px}
+.case-cta h2{font-size:34px;letter-spacing:-.7px}
+.case-cta .overline{margin-bottom:14px;color:var(--muted)}
+.case-cta p:not(.overline){font-size:14px;color:var(--muted);margin-top:13px}
+.case-related{margin-top:45px;display:grid;grid-template-columns:1fr 1fr;gap:18px}
+.case-related h2{grid-column:1/-1;font-size:28px;letter-spacing:-.5px;margin-bottom:5px}
+.case-related>a{display:flex;align-items:center;justify-content:space-between;gap:15px;border:1px solid var(--line);border-radius:5px;padding:20px;font-size:14px}
+.case-related>a:hover{border-color:var(--wine);color:var(--wine)}
+
+
+@media(max-width:1000px){.case-grid{grid-template-columns:1fr}.case-card-metric{margin:20px 0}.case-layout{gap:30px}}
+@media(max-width:650px){.case-page{padding-top:38px}.case-heading{margin-bottom:32px}.case-heading h1{letter-spacing:-1.3px}.case-heading>p:last-child{font-size:15px}.case-layout{grid-template-columns:1fr;gap:15px}.case-result{padding:25px}.case-cta{align-items:flex-start;flex-direction:column;padding:25px}.case-cta h2,.case-story h2{font-size:30px}.case-related{grid-template-columns:1fr}.case-back{font-size:12px}.case-card{padding:25px}}

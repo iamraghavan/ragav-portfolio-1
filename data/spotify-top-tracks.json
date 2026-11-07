@@ -1,0 +1,56 @@
+{
+  "tracks": [
+    {
+      "id": "5fdKNHHTgu4rtE9PMR2sRB",
+      "name": "Anbe Anbe",
+      "artists": "Harris Jayaraj, Harish Raghavendra, Harini",
+      "album": "Ithu Kathirvelan Kadhal (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e77a46c492da588383493ab",
+      "url": "https://open.spotify.com/track/5fdKNHHTgu4rtE9PMR2sRB",
+      "durationMs": 344533
+    },
+    {
+      "id": "6GFtWQYco30oKpMr5xJwy2",
+      "name": "Soul of Doctor (Theme) [From \"Doctor\"]",
+      "artists": "Anirudh Ravichander, Niranjana Ramanan",
+      "album": "Soul of Doctor (Theme) [From \"Doctor\"]",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bf053f6e913c6c1c5377dfd7",
+      "url": "https://open.spotify.com/track/6GFtWQYco30oKpMr5xJwy2",
+      "durationMs": 63711
+    },
+    {
+      "id": "25SOVnk2agskqzqeKPcx2Q",
+      "name": "Ennamo Yeadho",
+      "artists": "Harris Jayaraj, Aalaap Raju, Prashanthini, Emcee Jesz, Sri Charan, Madhan Karky",
+      "album": "KO (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27378a96ace966dd335eb2c4608",
+      "url": "https://open.spotify.com/track/25SOVnk2agskqzqeKPcx2Q",
+      "durationMs": 336013
+    },
+    {
+      "id": "4nSwWiwtieiNmRAjy9fEXN",
+      "name": "Kannala Kannala - The Melting Point of Love",
+      "artists": "Hiphop Tamizha, Kaushik Krish, Padmalatha",
+      "album": "Thani Oruvan (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e9928d36039f5e70d3dcaa88",
+      "url": "https://open.spotify.com/track/4nSwWiwtieiNmRAjy9fEXN",
+      "durationMs": 215456
+    },
+    {
+      "id": "7Je0oWG9OjLhHEXd2eHsFF",
+      "name": "Kiliye - From \"ARM\"",
+      "artists": "Dhibu Ninan Thomas, K. S. Harisankar, Anila Rajeev",
+      "album": "Kiliye (From \"ARM\")",
+      "image": "https://i.scdn.co/image/ab67616d0000b27363e570d1d905346c81614546",
+      "url": "https://open.spotify.com/track/7Je0oWG9OjLhHEXd2eHsFF",
+      "durationMs": 271641
+    }
+  ],
+  "playlist": {
+    "id": "2SskqLxISSEDj0lv8ECuAV",
+    "url": "https://open.spotify.com/playlist/2SskqLxISSEDj0lv8ECuAV"
+  },
+  "updatedAt": "2026-11-07T09:06:36.561Z",
+  "timeRange": "long_term",
+  "playlistReady": true
+}

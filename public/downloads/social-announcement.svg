@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Free Social Announcement Card by Ragav. See LICENSE.txt. Edit the sample text and colours before use. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Social announcement template</title><desc id="desc">Editable burgundy announcement card with cream text and decorative circles.</desc>
+  <rect width="1080" height="1080" fill="#733b45"/>
+  <g fill="none" stroke="#b78776" stroke-width="2" opacity=".35"><circle cx="1030" cy="1060" r="470"/><circle cx="1030" cy="1060" r="540"/><circle cx="1030" cy="1060" r="610"/></g>
+  <text x="85" y="125" fill="#f7f1e1" font-family="Arial, sans-serif" font-size="19" letter-spacing="4">YOUR BRAND / NOTES &amp; IDEAS</text>
+  <g font-family="Georgia, serif" font-size="112" letter-spacing="-3"><text x="80" y="380" fill="#f7f1e1">Good things.</text><text x="80" y="510" fill="#d9b9a0" font-style="italic">Coming</text><text x="80" y="640" fill="#d9b9a0" font-style="italic">your way.</text></g>
+  <line x1="85" y1="860" x2="995" y2="860" stroke="#b78776" stroke-opacity=".5"/>
+  <text x="85" y="932" fill="#f7f1e1" font-family="Arial, sans-serif" font-size="24">A new chapter starts here.</text>
+  <path d="M930 955l55-55m-55 0h55v55" fill="none" stroke="#f7f1e1" stroke-width="5"/>
+</svg>

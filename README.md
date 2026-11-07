@@ -63,7 +63,7 @@ Vercel builds each connected Git push. The production branch (normally main) upd
 
 ## Contact
 
-The form opens a mailto draft. It does not send mail through a backend or store submissions. No API keys are required for the existing portfolio.
+The contact form submits to /api/contact and sends an email through Resend. It does not store enquiries in a website database. Set RESEND_API_KEY, CONTACT_FROM_EMAIL (a sender on your Resend-verified domain) and CONTACT_TO_EMAIL in .env.local for local development and in Vercel environment variables for deployment. Restart the development server or redeploy after changing these settings. See docs/contact-email.md for setup and testing.
 
 ## References
 

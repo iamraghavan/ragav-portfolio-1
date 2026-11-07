@@ -1,0 +1,20 @@
+Ragav Free Resource License
+Copyright 2026 J.S. Raghavan
+
+Applies to: studio-landing-page.html, weekly-content-planner.csv,
+and social-announcement.svg distributed through this website.
+
+You may use, copy and modify these resources in personal and commercial
+projects, including work delivered to clients. Attribution is appreciated
+but is not required.
+
+You may not sell, sublicense or redistribute the original or modified
+source resources as standalone templates, stock assets, template bundles,
+or competing downloadable resources. Delivering a customised end product
+to a client is permitted.
+
+These resources are provided AS IS, without warranty of any kind.
+The author is not liable for claims or damages arising from their use.
+
+Replace example text, contact details and branding before publishing.
+This license does not apply to future paid products or unrelated site assets.
